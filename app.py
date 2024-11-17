@@ -7,7 +7,7 @@ import os
 import time
 
 # Define the model path
-model_path = './custom_model/weights/best.pt'  # Ensure the path to your YOLO model is correct
+model_path = 'best.pt'  # Ensure the path to your YOLO model is correct
 
 # Attempt to load the custom YOLOv5 model
 try:
